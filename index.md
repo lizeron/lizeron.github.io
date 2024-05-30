@@ -8,4 +8,4 @@ permalink: /
 
 TBD
 
-![](https://raw.githubusercontent.com/lizeron/lizeron.github.io/master/assets/images/king%20of%20x%20regions.PNG)
+![](https://raw.githubusercontent.com/lizeron/lizeron.github.io/master/assets/king%20of%20X%20regions.JPG)
