@@ -1,10 +1,10 @@
 ---
-title: / lizeron
+title: / 
 layout: home
 permalink: /
 ---
 
-#lizeron
+# lizeron
 
 TBD
 
