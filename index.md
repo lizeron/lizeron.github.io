@@ -1,7 +1,7 @@
 ---
-title: / 
+title: lI[0]N 
 layout: home
-permalink: /
+permalink: 
 ---
 
 ## lizeron
