@@ -1,5 +1,5 @@
 ---
-title: lI[0]N 
+title: L;[0]N 
 layout: home
 permalink: 
 ---
