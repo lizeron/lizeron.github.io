@@ -8,7 +8,7 @@ permalink:
 
 TBD
 
-![](https://raw.githubusercontent.com/lizeron/lizeron.github.io/master/assets/images/king%20of%20X%20regions-min.JPG)
+![](/assets/images/king%20of%20X%20regions-min.JPG)
 
 
-![](https://raw.githubusercontent.com/lizeron/lizeron.github.io/master/assets/images/prayy.JPG)
+![](/assets/images/prayy.JPG)
