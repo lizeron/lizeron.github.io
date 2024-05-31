@@ -8,5 +8,5 @@ permalink:
 
 TBD
 
-![](/assets/images/king-of-x-regions.jpg))
+![rey de ¿? regiones](/assets/images/king-of-x-regions.jpg)
 
