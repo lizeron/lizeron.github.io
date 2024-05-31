@@ -10,5 +10,3 @@ TBD
 
 ![](/assets/images/king%20of%20X%20regions-min.JPG)
 
-
-![](/assets/images/prayy.JPG)
