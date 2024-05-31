@@ -4,8 +4,8 @@ layout: home
 permalink: /
 ---
 
-# lizeron
+## lizeron
 
 TBD
 
-![rey de X regiones](https://raw.githubusercontent.com/lizeron/lizeron.github.io/master/assets/king%20of%20X%20regions.JPG)
+![rey de X regiones](https://github.com/lizeron/lizeron.github.io/blob/master/assets/images/king%20of%20X%20regions.JPG?raw=true)
