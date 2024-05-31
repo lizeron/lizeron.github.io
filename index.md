@@ -8,4 +8,4 @@ permalink: /
 
 TBD
 
-![rey de X regiones](https://github.com/lizeron/lizeron.github.io/blob/master/assets/images/king%20of%20X%20regions.JPG?raw=true)
+![rey de X regiones](https://raw.githubusercontent.com/lizeron/lizeron.github.io/master/assets/images/kkkg.JPG)
