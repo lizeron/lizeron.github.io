@@ -6,7 +6,8 @@ permalink:
 
 ## lizeron
 
-TBD
+mau suarez
+artista digital
 
 ![rey de ¿? regiones](/assets/images/king-of-x-regions.jpg)
 
