@@ -1,7 +1,7 @@
 ---
 title: L;[0]N 
 layout: home
-permalink: /region zero/
+permalink:
 ---
 
 ## lizeron
