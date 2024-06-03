@@ -1,5 +1,5 @@
 ---
-title: Bestiario impropio
+title: ║ Bestiario impropio ║
 layout: page
 permalink: /bestiario impropio/
 ---
