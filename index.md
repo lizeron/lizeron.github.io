@@ -7,7 +7,7 @@ permalink:
 ## lizeron
 
 mau suarez
-artista digital
+mauricio.srz.ortz@gmail.com
 
 ![rey de ¿? regiones](/assets/images/reydeXregiones.jpg)
 
