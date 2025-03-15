@@ -17,8 +17,7 @@ Un camino infinito de generación aleatoria. Los edificios que aparecen a medida
 
 
 
-Descargar para Windows:
-https://github.com/lizeron/nombres_de_tierras/releases/tag/V1.3
+Clicking [Descargar para Windows](https://github.com/lizeron/nombres_de_tierras/releases/tag/V1.3)
 
-Descargar para macOS:
-https://github.com/lizeron/nombres_de_tierras/releases/tag/V1.3.1
+Clicking [Descargar para macOS](https://github.com/lizeron/nombres_de_tierras/releases/tag/V1.3.1)
+
