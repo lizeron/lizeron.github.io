@@ -10,6 +10,13 @@ Un camino infinito de generación aleatoria. Los edificios que aparecen a medida
 
 
 
+
+![ndt](/assets/images/Nombres_de_tierras_1.jpg)
+
+
+
+
+
 Descargar para Windows:
 https://github.com/lizeron/nombres_de_tierras/releases/tag/V1.3
 
