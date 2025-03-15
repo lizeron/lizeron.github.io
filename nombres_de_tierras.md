@@ -11,7 +11,7 @@ Un camino infinito de generación aleatoria. Los edificios que aparecen a medida
 
 
 
-![ndt](/assets/images/Nombres_de_tierras_1.jpg)
+![ndt](/assets/images/Nombres_de_tierras%201.jpg)
 
 
 
